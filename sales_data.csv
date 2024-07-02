@@ -1,0 +1,14 @@
+Date,Store,Product,Quantity,Price
+2023-01-01,Store A,Product 1,10,5.99
+2023-01-01,Store A,Product 2,5,15.49
+2023-01-02,Store B,Product 1,8,5.99
+2023-01-02,Store B,Product 3,3,22.99
+2023-02-01,Store A,Product 1,6,5.99
+2023-02-01,Store A,Product 3,2,22.99
+2023-02-02,Store B,Product 2,7,15.49
+2023-02-02,Store B,Product 3,4,22.99
+2023-03-01,Store A,Product 1,15,5.99
+2023-03-01,Store A,Product 2,9,15.49
+2023-03-02,Store B,Product 1,10,5.99
+2023-03-02,Store B,Product 2,5,15.49
+2023-03-02,Store B,Product 3,6,22.99
